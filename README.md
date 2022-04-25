@@ -1,25 +1,8 @@
-### Hi, Nice to meet you!!!
+### Hi my Name is Luiz, nice to meet you!!!
 
 Welcome to my Git Hub Profile 👋
-
-My Name is Luiz,
-     and I’m currently learning Software Development!
-
-![4af97be15a1edae3f1b61cdb0a60d30a](https://user-images.githubusercontent.com/102326788/165188043-2b3d88ba-9c36-4110-ab9b-9a62ad490c64.gif)
+      I’m currently learning Software Development!
+      
+      
 
 
-
-<!--
-**LuizzFelipe0/LuizzFelipe0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
