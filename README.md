@@ -5,7 +5,8 @@ Welcome to my Git Hub Profile 👋
 My Name is Luiz,
      and I’m currently learning Software Development!
 
-![a9877941b73dab80fff76e8124ee5168](https://user-images.githubusercontent.com/102326788/165004159-4aae7067-88dd-477d-9c4c-542251611b67.jpg)
+![b0cc9235e4a2473d7580779e6b24d371](https://user-images.githubusercontent.com/102326788/165006452-3d69a14d-2d27-417b-9be3-7e4eddcd9141.jpg)
+
 
 
 <!--
