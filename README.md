@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! My Name is Luiz👋
+![a9877941b73dab80fff76e8124ee5168](https://user-images.githubusercontent.com/102326788/165004159-4aae7067-88dd-477d-9c4c-542251611b67.jpg)
+🌱 I’m currently learning Java in Serratec!
 
 <!--
 **LuizzFelipe0/LuizzFelipe0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
