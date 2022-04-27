@@ -10,6 +10,6 @@ Welcome to my Git Hub Profile 👋
 Languages: 
       <img align="center" alt="Luiz-Java" height="50" width="60"                   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><img align="center" alt="Luiz-Git" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <div style="display: inline_block"><br>
-         <div align="center" a href ="mailto:luizfelipecanariocosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+         <div align="right" a href ="mailto:luizfelipecanariocosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 
       
