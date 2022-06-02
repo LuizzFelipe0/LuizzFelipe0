@@ -8,7 +8,7 @@ Welcome to my Git Hub Profile 👋
         <img height="118mm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzFelipe0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div align="center">
 Languages: 
-      <img align="center" alt="Luiz-Java" height="50" width="60"  padding-left:12                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <img align="center" alt="Luiz-Java" height="50" width="60"                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
       <img align="center" alt="Luiz-Git" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
       <div style="display: inline_block"><br>
