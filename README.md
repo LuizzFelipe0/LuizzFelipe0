@@ -1,5 +1,5 @@
 
-<img src="https://github-readme-stats.vercel.app/api?username=LuizzFelipe0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=LuizzFelipe0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" align="right">
 
 
 ### Hi my Name is Luiz, nice to meet you!!!
