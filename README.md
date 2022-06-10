@@ -1,3 +1,7 @@
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EternalQuasar0206&langs_count=12&layout=compact&theme=dark" align="right">
+
+
 ### Hi my Name is Luiz, nice to meet you!!!
 
 Welcome to my Git Hub Profile 👋
