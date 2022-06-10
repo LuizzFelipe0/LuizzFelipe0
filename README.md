@@ -7,7 +7,7 @@ Welcome to my Git Hub Profile 👋
             I’m currently learning Software Development!
       <div align="middle">
   <a href="https://github.com/LuizzFelipe0">
-        <img height="118mm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzFelipe0&layout=compact&langs_count=7&theme=tokyonight"/>
+        <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzFelipe0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div align="center">
       <img align="center" alt="Luiz-Java" height="45" width="35"                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
       <img align="center" alt="Luiz-Git" height="45" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
