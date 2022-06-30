@@ -6,10 +6,12 @@ I’m currently learning Software Development!
  <div align="middle">
   <a href="https://github.com/LuizzFelipe0">
 </div align="center">
-      <img align="center" alt="Luiz-Java" height="45" width="35"                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <img align="center" alt="Luiz-Java" height="50" width="35"                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
       <img align="center" alt="Luiz-Git" height="45" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <img align="center" alt="Luiz-Html" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-      <img align="center" alt="Luiz-Css" height="45" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /><br><br>
+      <img align="center" alt="Luiz-Css" height="45" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+      <img align="center" alt="Luiz-JavaScript" height="40" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+        <img align="center" alt="Luiz-React" height="45" width="35"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><br><br>
          <div align="left" a href ="mailto:luizfelipecanariocosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 
       
