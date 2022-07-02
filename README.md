@@ -2,8 +2,8 @@
 
 ### Hi my Name is Luiz, Welcome to my Git Hub Profile 👋
   
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizzFelipe0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="130" align="center">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzFelipe0&layout=compact&langs_count=7&theme=tokyonight" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizzFelipe0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150" align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzFelipe0&layout=compact&langs_count=7&theme=tokyonight" align="center"/>
 
 
 <div align="right">
@@ -17,7 +17,7 @@
       <img align="right" alt="Luiz-Css" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
       <img align="right" alt="Luiz-JavaScript" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>    
-    <a href ="mailto:luizfelipecanariocosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>  
+    <a heifgt="600" href ="mailto:luizfelipecanariocosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>  
 
 
 
