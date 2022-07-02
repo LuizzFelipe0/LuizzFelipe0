@@ -17,7 +17,7 @@
       <img align="right" alt="Luiz-Css" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
       <img align="right" alt="Luiz-JavaScript" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>    
-    <a heifgt="600" href ="mailto:luizfelipecanariocosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>  
+    <a href ="mailto:luizfelipecanariocosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>  
 
 
 
