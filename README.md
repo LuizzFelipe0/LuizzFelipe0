@@ -18,9 +18,10 @@
       <img align="center" alt="Luiz-Html" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
       <img align="center" alt="Luiz-Css" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
       <img align="center" alt="Luiz-JavaScript" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-       <a href ="mailto:luizfelipecanariocosta@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>  
-</div>    
  
+</div>    
+        <a href ="mailto:luizfelipecanariocosta@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
+         <a href ="https://www.linkedin.com/in/luiz-felipe-costa-7a2373241/"><img align="left" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a> 
 
 
       
