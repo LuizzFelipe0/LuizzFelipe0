@@ -5,8 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LuizzFelipe0&show_icons=true&theme=aura&include_all_commits=true&count_private=true" width="1050" height="150" align="center">
   <img width="1050" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzFelipe0&layout=compact&langs_count=7&theme=aura" align="center"/>
   
-<br/>
-
 <div align="center">
 
  ## 👨‍💻 Languages I work on:
@@ -20,6 +18,7 @@
       <img align="center" alt="Luiz-JavaScript" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
  
 </div>    
+<br/>
         <a href ="mailto:luizfelipecanariocosta@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
          <a href ="https://www.linkedin.com/in/luiz-felipe-costa-7a2373241/"><img align="left" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a> 
 
