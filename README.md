@@ -8,7 +8,7 @@
   
 <div align="center">
 
- ## 👨‍💻 Languages I work on:
+ ## 👨‍💻 Languages and Frameworks I work on:
 
   <img align="center" alt="Luiz-Java" height="50" width="40"                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="Luiz-C" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
