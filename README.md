@@ -12,7 +12,8 @@
 
   <img align="center" alt="Luiz-Java" height="50" width="40"                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="Luiz-C" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-      <img align="center" alt="Luiz-Git" height="45" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+ <img align="center" alt="Luiz-C#" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+       <img align="center" alt="Luiz-Git" height="45" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
         <img align="center" alt="Luiz-React" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       <img align="center" alt="Luiz-Html" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
       <img align="center" alt="Luiz-Css" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
