@@ -1,6 +1,6 @@
 
 
-# Hi, my Name is Luiz <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Welcome to my GitHub!
+# Hi, my Name is Luiz Welcome to my GitHub!
           
  
  <img src="https://github-readme-stats.vercel.app/api?username=LuizzFelipe0&show_icons=true&theme=aura&include_all_commits=true&count_private=true" width="1050" height="150" align="center">
