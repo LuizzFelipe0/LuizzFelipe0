@@ -1,6 +1,6 @@
 
 
-# Hi, my Name is Luiz Welcome to my GitHub!
+# <img width='6%' height="5%" src="https://images.squarespace-cdn.com/content/v1/595e1b9ab6ac502f684cbe56/1505844870079-VFIG8ZQWCS1UMQ94D5V7/HI+GIF.gif?format=2500w"/> my Name is Luiz and welcome to my GitHub!
           
  
  <img src="https://github-readme-stats.vercel.app/api?username=LuizzFelipe0&show_icons=true&theme=aura&include_all_commits=true&count_private=true" width="1050" height="150" align="center">
@@ -10,16 +10,18 @@
 
  ## 👨‍💻 Languages and Frameworks I work on:
 
-  <img align="center" alt="Luiz-Java" height="50" width="40"                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="Luiz-C" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
- <img align="center" alt="Luiz-C#" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+  <img align="center" alt="Luiz-Java" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+            <img align="center" alt="Luiz-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+          <img align="center" alt="Luiz-C" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
        <img align="center" alt="Luiz-Git" height="45" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
         <img align="center" alt="Luiz-React" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       <img align="center" alt="Luiz-Html" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
       <img align="center" alt="Luiz-Css" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
       <img align="center" alt="Luiz-JavaScript" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+          <br><br/>
       <img align="center" alt="Luiz-Tailwind" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
- 
+       <img align="center" alt="Luiz-Django" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+
 </div>    
 <br/>
         <a href ="mailto:luizfelipecanariocosta@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
