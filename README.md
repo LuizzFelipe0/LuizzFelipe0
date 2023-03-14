@@ -1,6 +1,6 @@
 
 
-# <img width='6%' height="5%" src="https://images.squarespace-cdn.com/content/v1/595e1b9ab6ac502f684cbe56/1505844870079-VFIG8ZQWCS1UMQ94D5V7/HI+GIF.gif?format=2500w"/> my Name is Luiz and welcome to my GitHub!
+# <img width='6%' height="6%" src="https://images.squarespace-cdn.com/content/v1/595e1b9ab6ac502f684cbe56/1505914440979-36R26YBA1OQSKXW7HUH7/YO+GIF.gif?format=750w"/> my name is Luiz, Welcome to my GitHub!
           
  
  <img src="https://github-readme-stats.vercel.app/api?username=LuizzFelipe0&show_icons=true&theme=aura&include_all_commits=true&count_private=true" width="1050" height="150" align="center">
