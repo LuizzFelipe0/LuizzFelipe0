@@ -20,7 +20,7 @@
       <img align="center" alt="Luiz-JavaScript" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
           <br><br/>
       <img align="center" alt="Luiz-Tailwind" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-       <img align="center" alt="Luiz-Django" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+       <img align="center" alt="Luiz-Django" height="45" width="40"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" />
 
 </div>    
 <br/>
