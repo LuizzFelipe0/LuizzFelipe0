@@ -2,9 +2,10 @@
 
 # <img width='6%' height="6%" src="https://images.squarespace-cdn.com/content/v1/595e1b9ab6ac502f684cbe56/1505914440979-36R26YBA1OQSKXW7HUH7/YO+GIF.gif?format=750w"/> my name is Luiz, Welcome to my GitHub!
  
- <img src="https://github-readme-stats.vercel.app/api?username=LuizzFelipe0&show_icons=true&theme=aura&include_all_commits=true&count_private=true" width="1050" height="150" align="center">
-  <img width="1050" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzFelipe0&layout=compact&langs_count=7&theme=aura" align="center"/>
-  
+
+  <img width="1050" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzFelipe0&layout=compact&langs_count=7&theme=aura" align="center"/>
+    <img width="800" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizzFelipe0&theme=aura" align="center"/>
+
 <div align="center">
 
  ## 👨‍💻 Languages and Frameworks I work on:
