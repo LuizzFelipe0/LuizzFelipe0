@@ -20,7 +20,7 @@
           <br><br/>
       <img align="center" alt="Luiz-Tailwind" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
        <img align="center" alt="Luiz-Django" height="45" width="40"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" />
-
+        <img align="center" height='30px' width='35px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg'></img>
 </div>    
 <br/>
         <a href ="mailto:luizfelipecanariocosta@gmail.com"><img align="left" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
