@@ -1,13 +1,12 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=30&pause=990&color=A277FF&width=435&lines=Hello%2C+my+name+is+Luiz+Felipe+;Welcome+to+my+Github!;Happy+coding+S2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=400&size=30&pause=990&color=A277FF&width=435&center=true&lines=Hello%2C+my+name+is+Luiz+Felipe+;Welcome+to+my+Github!;Happy+coding+S2)](https://git.io/typing-svg)
 
-  <img width="1000" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizzFelipe0&theme=aura" align="center"/>
-  <img width="1200" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzFelipe0&layout=compact&langs_count=7&theme=aura" align="center"/>
+  <img width="1000" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzFelipe0&layout=compact&langs_count=7&theme=aura" align="center"/>
 
 <div align="center">
 
- # 👨‍💻 Languages , tools and frameworks I work on:
+ ## 👨‍💻 Languages , tools and frameworks I work on:
 
    <img align="center" alt="Luiz-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
    <img align="center" alt="Luiz-JavaScript" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
