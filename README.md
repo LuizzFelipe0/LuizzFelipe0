@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=400&size=30&pause=990&color=A277FF&width=435&center=true&lines=Hello%2C+my+name+is+Luiz+Felipe+;Welcome+to+my+Github!;Happy+coding+S2)](https://git.io/typing-svg)
 
-  <img width="1000" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzFelipe0&layout=compact&langs_count=7&theme=aura" align="center"/>
+  <img width="1000" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzFelipe0&layout=compact&langs_count=7&theme=aura"/>
 
 <div align="center">
 
