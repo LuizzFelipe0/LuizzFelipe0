@@ -12,13 +12,13 @@
    <img align="center" alt="Luiz-JavaScript" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
    <img align="center" alt="Luiz-Html" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
    <img align="center" alt="Luiz-Css" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-   <img align="center" alt="Luiz-React" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align="center" alt="Luiz-C" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
    <img align="center" alt="Luiz-Java" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="Luiz-Git" height="45" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <br></br> 
           
    <img align="center" alt="Luiz-Tailwind" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+      <img align="center" alt="Luiz-React" height="45" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align="center" alt="Luiz-Django" height="45" width="40"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" />
    <img align="center" height='30px' width='35px' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg'></img>
 </div>    
