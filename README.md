@@ -27,7 +27,7 @@
 <br/>
 
 <div align="left">
-  <a href="mailto:luizfelipecanariocosta@gmail.com">
+  <a href="mailto:lfcanariocosta04@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/luiz-felipe-costa-7a2373241/">
