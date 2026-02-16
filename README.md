@@ -2,7 +2,7 @@
 
 <div align="left">
 
-  ## 👨‍💻 Languages, Tools, and Frameworks I Work With:
+  <h2> 👨‍💻 Languages, Tools, and Frameworks I work with: </h2>
 
   <img align="center" alt="Luiz-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Luiz-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
@@ -21,9 +21,11 @@
 
 </div>
 
-<br/>
-<p>😎 You can get find me on: </p>
 <div align="left">
+  
+ <h2>😎 You can find me on: </h2>
+
+</p>
   <a href="mailto:lfcanariocosta04@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
   </a>
